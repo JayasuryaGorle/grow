@@ -87,14 +87,14 @@ function Home() {
 
       <Dropdown.Menu style={{height:'600px',overflow:'scroll'}}>
        
-        <Dropdown.Item href="/Girl" ><img  width="100%" src='https://i.pinimg.com/564x/89/6b/92/896b92aa6d9f30fd02cfce0d80008f33.jpg'></img></Dropdown.Item>
-        <Dropdown.Item href="/Girl" ><img  width="100%" src='https://i.pinimg.com/564x/3f/28/67/3f286744139f1b01c8c28e06418e5f60.jpg'></img></Dropdown.Item>
-        <Dropdown.Item href="/Girl" ><img  width="100%" src='https://i.pinimg.com/564x/eb/83/48/eb8348203894fc08a26cb62cce3884ba.jpg'></img></Dropdown.Item>
-        <Dropdown.Item href="/Girl" ><img width="100%" src='https://i.pinimg.com/564x/9f/5c/8a/9f5c8a3df52d9e15abfd5cc240786e7c.jpg'></img></Dropdown.Item>
-        <Dropdown.Item href="/Girl" ><img  width="100%" src='https://i.pinimg.com/564x/f3/92/eb/f392ebbe14e3083323ab93df972df4d8.jpg'></img></Dropdown.Item>
-        <Dropdown.Item href="/Boy" ><img  width="100%" src='https://i.pinimg.com/564x/9e/27/3b/9e273b761219e131981f8525c158a12b.jpg'></img></Dropdown.Item>
-        <Dropdown.Item href="/Boy" ><img width="100%" src='https://i.pinimg.com/564x/a7/ae/b3/a7aeb3f922240c4e8794a416ad8a0a46.jpg'></img></Dropdown.Item>
-        <Dropdown.Item href="/Boy" ><img  width="100%" src='https://i.pinimg.com/564x/84/33/f7/8433f7beb975818b9f18ff07dee04b6a.jpg'></img></Dropdown.Item>
+        <Dropdown.Item  ><img  width="100%" src='https://i.pinimg.com/564x/89/6b/92/896b92aa6d9f30fd02cfce0d80008f33.jpg'></img></Dropdown.Item>
+        <Dropdown.Item  ><img  width="100%" src='https://i.pinimg.com/564x/3f/28/67/3f286744139f1b01c8c28e06418e5f60.jpg'></img></Dropdown.Item>
+        <Dropdown.Item  ><img  width="100%" src='https://i.pinimg.com/564x/eb/83/48/eb8348203894fc08a26cb62cce3884ba.jpg'></img></Dropdown.Item>
+        <Dropdown.Item  ><img width="100%" src='https://i.pinimg.com/564x/9f/5c/8a/9f5c8a3df52d9e15abfd5cc240786e7c.jpg'></img></Dropdown.Item>
+        <Dropdown.Item ><img  width="100%" src='https://i.pinimg.com/564x/f3/92/eb/f392ebbe14e3083323ab93df972df4d8.jpg'></img></Dropdown.Item>
+        <Dropdown.Item  ><img  width="100%" src='https://i.pinimg.com/564x/9e/27/3b/9e273b761219e131981f8525c158a12b.jpg'></img></Dropdown.Item>
+        <Dropdown.Item  ><img width="100%" src='https://i.pinimg.com/564x/a7/ae/b3/a7aeb3f922240c4e8794a416ad8a0a46.jpg'></img></Dropdown.Item>
+        <Dropdown.Item  ><img  width="100%" src='https://i.pinimg.com/564x/84/33/f7/8433f7beb975818b9f18ff07dee04b6a.jpg'></img></Dropdown.Item>
 
 
         </Dropdown.Menu>
