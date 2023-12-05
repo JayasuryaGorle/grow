@@ -79,7 +79,7 @@ let validateloginThruAxios = async()=>{
       <Button id='loginButton' variant="dark" type="button" onClick={()=>{
 
 validateloginThruAxios();
-
+navigate("/About");
 
 // if(emailInputRef.current.value.length == 0 ||
 //   passwordInputRef.current.value.length == 0){

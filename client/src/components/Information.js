@@ -8,7 +8,7 @@ import Nav from 'react-bootstrap/Nav';
 
 function Information() {
   return (
-    <div className='framework' >
+    <div className='framework' style={{height: "800px"}}>
     <img id='fw' style={{width:'40%'}} src='../images/fw.jpg'></img>
     <h1 className='content' >Hi, I'm Jaya Surya<b style={{color:'cyan'}}>'</b> </h1>
     <h1 className='info' > Full-stack developer </h1>
