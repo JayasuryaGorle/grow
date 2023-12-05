@@ -1,4 +1,5 @@
 const express = require ('express');
+const path = require("node:path");
 const cors = require('cors');
 const mongoose = require('mongoose');
 // const fs = require('fs');
@@ -15,6 +16,8 @@ dotenv.config();
 
 const app = express();
 app.use(cors());
+
+app.use(express.static(path.join(__dirname,"./client/build")))
 
 
 // // create a write stream (in append mode)
