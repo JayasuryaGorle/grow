@@ -131,11 +131,11 @@ function About() {
 
       <Dropdown.Menu style={{height:'600px',overflow:'scroll'}}>
       <Dropdown.Item href="https://hrxbrand.com/home" ><img width="100%" src='https://iconape.com/wp-content/png_logo_vector/hrx-logo.png'></img></Dropdown.Item>
-      <Dropdown.Item href="https://in.puma.com/in/en" ><img width="100%" src='https://th.bing.com/th/id/R.5a04026db1bcfa2fa0f953f1892bf83f?rik=cErMO4WM7%2fvNGw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-voLwDpZ_kBU%2fTtz4In2XzMI%2fAAAAAAAAEw4%2fGEbp0aqyaY8%2fs1600%2fPuma_Logo_Blue_Texture_HD_Wallpaper-Vvallpaper.Net.jpg&ehk=y1j0SP4TZ4YBZ9ucbWkuN9fHyUlJFJ3bdR1Wu7hiNdI%3d&risl=&pid=ImgRaw&r=0'></img></Dropdown.Item>
        <Dropdown.Item href="https://www.adidas.co.in/" ><img width="100%" src='https://static.vecteezy.com/system/resources/previews/019/136/302/original/adidas-logo-adidas-icon-free-free-vector.jpg'></img></Dropdown.Item>
        <Dropdown.Item href="https://www.nike.com/in/" ><img width="100%" src='https://cdn.iconscout.com/icon/free/png-256/free-nike-1-202653.png'></img></Dropdown.Item>
          <Dropdown.Item href="https://beardo.in/" ><img width="100%" src='https://www.okeasylife.com/wp-content/uploads/2020/05/beardo1-min-300x300.jpg'></img></Dropdown.Item>
          <Dropdown.Item href="https://www2.hm.com/en_in/index.html" ><img width="100%" src='https://cdn.hyprop.co.za/image/2021/7/20/c5d53658-6abd-440c-8e42-b47b97003ea6/c37c2de9-ec4a-4553-b062-0691d5a45e09.jpg'></img></Dropdown.Item>
+         <Dropdown.Item href="https://in.puma.com/in/en" ><img width="100%" src='https://th.bing.com/th/id/R.5a04026db1bcfa2fa0f953f1892bf83f?rik=cErMO4WM7%2fvNGw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-voLwDpZ_kBU%2fTtz4In2XzMI%2fAAAAAAAAEw4%2fGEbp0aqyaY8%2fs1600%2fPuma_Logo_Blue_Texture_HD_Wallpaper-Vvallpaper.Net.jpg&ehk=y1j0SP4TZ4YBZ9ucbWkuN9fHyUlJFJ3bdR1Wu7hiNdI%3d&risl=&pid=ImgRaw&r=0'></img></Dropdown.Item>
 
         </Dropdown.Menu>
     </Dropdown>
